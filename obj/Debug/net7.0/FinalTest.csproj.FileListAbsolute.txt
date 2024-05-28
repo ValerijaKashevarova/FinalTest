@@ -1,0 +1,14 @@
+/Users/valeriya/Desktop/GB_One/FinalTest/obj/Debug/net7.0/FinalTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valeriya/Desktop/GB_One/FinalTest/obj/Debug/net7.0/FinalTest.AssemblyInfoInputs.cache
+/Users/valeriya/Desktop/GB_One/FinalTest/obj/Debug/net7.0/FinalTest.AssemblyInfo.cs
+/Users/valeriya/Desktop/GB_One/FinalTest/obj/Debug/net7.0/FinalTest.csproj.CoreCompileInputs.cache
+/Users/valeriya/Desktop/GB_One/FinalTest/bin/Debug/net7.0/FinalTest
+/Users/valeriya/Desktop/GB_One/FinalTest/bin/Debug/net7.0/FinalTest.deps.json
+/Users/valeriya/Desktop/GB_One/FinalTest/bin/Debug/net7.0/FinalTest.runtimeconfig.json
+/Users/valeriya/Desktop/GB_One/FinalTest/bin/Debug/net7.0/FinalTest.dll
+/Users/valeriya/Desktop/GB_One/FinalTest/bin/Debug/net7.0/FinalTest.pdb
+/Users/valeriya/Desktop/GB_One/FinalTest/obj/Debug/net7.0/FinalTest.dll
+/Users/valeriya/Desktop/GB_One/FinalTest/obj/Debug/net7.0/refint/FinalTest.dll
+/Users/valeriya/Desktop/GB_One/FinalTest/obj/Debug/net7.0/FinalTest.pdb
+/Users/valeriya/Desktop/GB_One/FinalTest/obj/Debug/net7.0/FinalTest.genruntimeconfig.cache
+/Users/valeriya/Desktop/GB_One/FinalTest/obj/Debug/net7.0/ref/FinalTest.dll
